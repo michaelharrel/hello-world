@@ -1,2 +1,2 @@
 # hello-world
-A repository for the tutorial.
+Hi I'm Michael and I'm new at this.
